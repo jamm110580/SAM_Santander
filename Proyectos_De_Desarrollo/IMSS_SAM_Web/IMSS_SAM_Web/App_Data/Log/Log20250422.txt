@@ -1,0 +1,178 @@
+20250422_002149--Se abre ventana para generar layout del IMSS
+20250422_002342--Se abre ventana para generar layout del IMSS
+20250422_002349--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_110542--Se abre ventana para generar layout del IMSS
+20250422_110810--Se abre ventana para generar layout del IMSS
+20250422_111058--Se abre ventana para generar layout del IMSS
+20250422_111209--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_111209--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\trades-downloadReport2025_04_21 21_57_09.xlsx
+20250422_111209 -- El archivo de Trades aún no trae la segunda pestaña -- Referencia a objeto no establecida como instancia de un objeto.
+20250422_113018--Se abre ventana para generar layout del IMSS
+20250422_113048--Se abre ventana para generar layout del IMSS
+20250422_113054--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_113054--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\trades-downloadReport2025_04_21 21_57_09.xlsx
+20250422_114542--Se abre ventana para generar layout del IMSS
+20250422_114609--Se abre ventana para generar layout del IMSS
+20250422_114609--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_114649--Se abre ventana para generar layout del IMSS
+20250422_114709--Se abre ventana para generar layout del IMSS
+20250422_114709--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_114709--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\trades-downloadReport2025_04_21 21_57_09.xlsx
+20250422_122118--Se abre ventana para generar layout del IMSS
+20250422_122151--Se abre ventana para generar layout del IMSS
+20250422_122151--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_122151--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\trades-downloadReport2025_04_21 21_57_09.xlsx
+20250422_122151 -- El archivo de Trades aún no trae la segunda pestaña -- Error converting data type varchar to numeric.
+20250422_122151--Layout BBVA generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\BBVA20250422_122407.txt
+20250422_122151--Layout S3 generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\S320250422_122407.txt
+20250422_122151--Layout S3 generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\S320250422_122407.txt
+20250422_123140--Se abre ventana para generar layout del IMSS
+20250422_123203--Se abre ventana para generar layout del IMSS
+20250422_123204--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_123204--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\trades-downloadReport2025_04_21 21_57_09.xlsx
+20250422_123204 -- El archivo de Trades aún no trae la segunda pestaña -- Error converting data type varchar to numeric.
+20250422_123655--Se abre ventana para generar layout del IMSS
+20250422_123757--Se abre ventana para generar layout del IMSS
+20250422_123757--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_123757--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\trades-downloadReport2025_01_06 19_26_32.xlsx
+20250422_123757 -- Carga archivo Trades Custodio correcta
+20250422_130154--Se abre ventana para generar layout del IMSS
+20250422_130306--Se abre ventana para generar layout del IMSS
+20250422_130306--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_130306--Layout BBVA generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\BBVA20250422_130315.txt
+20250422_130306--Layout S3 generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\S320250422_130315.txt
+20250422_130306--Layout S3 generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\S320250422_130315.txt
+20250422_131200--Se abre ventana para generar layout del IMSS
+20250422_131205--Se abre ventana para generar layout del IMSS
+20250422_132153--Se abre ventana para generar layout del IMSS
+20250422_132207--Se abre ventana para generar layout del IMSS
+20250422_132938--Se abre ventana para generar layout del IMSS
+20250422_132944--Se abre ventana para generar layout del IMSS
+20250422_134526--Se abre ventana para generar layout del IMSS
+20250422_134534--Se abre ventana para generar layout del IMSS
+20250422_134631--Se abre ventana para generar layout del IMSS
+20250422_134631--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_135609--Se abre ventana para generar layout del IMSS
+20250422_135620--Se abre ventana para generar layout del IMSS
+20250422_135707--Se abre ventana para generar layout del IMSS
+20250422_135707--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_140247--Se abre ventana para generar layout del IMSS
+20250422_140307--Se abre ventana para generar layout del IMSS
+20250422_140451--Se abre ventana para generar layout del IMSS
+20250422_140451--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_140933--Se abre ventana para generar layout del IMSS
+20250422_140936--Se abre ventana para generar layout del IMSS
+20250422_140949--Se abre ventana para generar layout del IMSS
+20250422_140949--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_145408--Se abre ventana para generar layout del IMSS
+20250422_145429--Se abre ventana para generar layout del IMSS
+20250422_145451--Se abre ventana para generar layout del IMSS
+20250422_145451--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_145558--Se abre ventana para generar layout del IMSS
+20250422_145602--Se abre ventana para generar layout del IMSS
+20250422_145613--Se abre ventana para generar layout del IMSS
+20250422_145613--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_145803--Se abre ventana para generar layout del IMSS
+20250422_145807--Se abre ventana para generar layout del IMSS
+20250422_145819--Se abre ventana para generar layout del IMSS
+20250422_145819--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_150139--Se abre ventana para generar layout del IMSS
+20250422_150156--Se abre ventana para generar layout del IMSS
+20250422_150208--Se abre ventana para generar layout del IMSS
+20250422_150208--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_150208--El vector de valmer no es del día, continua proceso
+20250422_150208--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250422_150250--Se abre ventana para generar layout del IMSS
+20250422_150250--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_150250--El vector de valmer no es del día, continua proceso
+20250422_150250--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250422_150318--Se abre ventana para generar layout del IMSS
+20250422_150322--Se abre ventana para generar layout del IMSS
+20250422_150343--Se abre ventana para generar layout del IMSS
+20250422_150343--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_150343--El vector de valmer no es del día, continua proceso
+20250422_150343--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250422_150518--Se abre ventana para generar layout del IMSS
+20250422_150530--Se abre ventana para generar layout del IMSS
+20250422_150548--Se abre ventana para generar layout del IMSS
+20250422_150548--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_150548--El vector de valmer no es del día, continua proceso
+20250422_150548--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250422_151637--Se abre ventana para generar layout del IMSS
+20250422_153601--Se abre ventana para generar layout del IMSS
+20250422_153623--Se abre ventana para generar layout del IMSS
+20250422_153623--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_153623--El vector de valmer no es del día, continua proceso
+20250422_153623--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250422_155621--Se abre ventana para generar layout del IMSS
+20250422_155627--Se abre ventana para generar layout del IMSS
+20250422_155639--Se abre ventana para generar layout del IMSS
+20250422_155639--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_155837--Se abre ventana para generar layout del IMSS
+20250422_155841--Se abre ventana para generar layout del IMSS
+20250422_155851--Se abre ventana para generar layout del IMSS
+20250422_155851--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_160235--Se abre ventana para generar layout del IMSS
+20250422_160254--Se abre ventana para generar layout del IMSS
+20250422_160303--Se abre ventana para generar layout del IMSS
+20250422_160303--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_163123--Se abre ventana para generar layout del IMSS
+20250422_163128--Se abre ventana para generar layout del IMSS
+20250422_163208--Se abre ventana para generar layout del IMSS
+20250422_163208--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_163208--El vector de valmer no es del día, continua proceso
+20250422_163208--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250422_163208--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico22250416MD.xls
+20250422_163208--Inicia carga archivo Position -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\positions-downloadReport2025_04_21 21_57_09.xlsx
+22/04/2025 04:43:02 p. m.--Error al cargar archivo Position -- Worksheet position out of range.
+22/04/2025 04:43:02 p. m.--Error al cargar archivo Position -- Worksheet position out of range.
+22/04/2025 04:43:02 p. m.--Carga archivo Position correcta -- Archivo Positions
+20250422_164332--Se abre ventana para generar layout del IMSS
+20250422_164615--Se abre ventana para generar layout del IMSS
+20250422_164652--Se abre ventana para generar layout del IMSS
+20250422_164652--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_164740--Se abre ventana para generar layout del IMSS
+20250422_164744--Se abre ventana para generar layout del IMSS
+20250422_164826--Se abre ventana para generar layout del IMSS
+20250422_164826--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_164826--El vector de valmer no es del día, continua proceso
+20250422_164826--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250422_164826--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico22250416MD.xls
+20250422_164826--Inicia carga archivo Position -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\positions-downloadReport2025_04_21 21_57_09.xlsx
+22/04/2025 04:52:35 p. m.--Carga archivo Position correcta -- Archivo Positions
+20250422_165650--Se abre ventana para generar layout del IMSS
+20250422_165910--Se abre ventana para generar layout del IMSS
+20250422_165956--Se abre ventana para generar layout del IMSS
+20250422_165956--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_165956--El vector de valmer no es del día, continua proceso
+20250422_165956--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250422_165956--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico22250416MD.xls
+20250422_165956--Inicia carga archivo Position -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\positions-downloadReport2025_04_21 21_57_09.xlsx
+22/04/2025 05:02:22 p. m.--Carga archivo Position correcta -- Archivo Positions
+20250422_165956--Layout generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\MSANT20250422layout.csv
+20250422_165956--Layout FV generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\MSANT20250422_FV.csv
+20250422_165956--Layout posición valuada excel generado correctamente -- C:\Users\SAMMX\Documents\BAU\IMSS\IMSS Archivos de Carga\Generados\20250422excel_SAM.xlsx
+20250422_180312--Se abre ventana para generar layout del IMSS
+20250422_180317--Se abre ventana para generar layout del IMSS
+20250422_180501--Se abre ventana para generar layout del IMSS
+20250422_180627--Se abre ventana para generar layout del IMSS
+20250422_180832--Se abre ventana para generar layout del IMSS
+20250422_180832--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_181159--Se abre ventana para generar layout del IMSS
+20250422_181229--Se abre ventana para generar layout del IMSS
+20250422_181603--Se abre ventana para generar layout del IMSS
+20250422_181603--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_200955--Se abre ventana para generar layout del IMSS
+20250422_201000--Se abre ventana para generar layout del IMSS
+20250422_201021--Se abre ventana para generar layout del IMSS
+20250422_201027--Se abre ventana para generar layout del IMSS
+20250422_201027--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_203431--Se abre ventana para generar layout del IMSS
+20250422_203441--Se abre ventana para generar layout del IMSS
+20250422_203501--Se abre ventana para generar layout del IMSS
+20250422_203610--Se abre ventana para generar layout del IMSS
+20250422_203639--Se abre ventana para generar layout del IMSS
+20250422_203640--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250422_204852--Se abre ventana para generar layout del IMSS
+20250422_205209--Se abre ventana para generar layout del IMSS
+20250422_205209--Inicia proceso para cargar layouts y generar archivos del IMSS

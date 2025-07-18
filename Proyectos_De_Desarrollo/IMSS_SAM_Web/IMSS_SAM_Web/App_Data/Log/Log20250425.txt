@@ -1,0 +1,137 @@
+20250425_140234--Se abre ventana para generar layout del IMSS
+20250425_140448--Se abre ventana para generar layout del IMSS
+20250425_140448--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_140448--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_15_38.xlsx
+20250425_140448 -- Carga archivo Trades Custodio correcta
+20250425_140448--Layout BBVA generado correctamente -- BBVA20250425_140650.txt
+20250425_140448--Layout S3 generado correctamente -- S320250425_140650.txt
+20250425_140448--Layout S3 generado correctamente -- S320250425_140650.txt
+20250425_140911--Se abre ventana para generar layout del IMSS
+20250425_140911--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_140911--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_40_08.xlsx
+20250425_140911 -- Carga archivo Trades Custodio correcta
+20250425_140911--Layout BBVA generado correctamente -- BBVA20250425_141442.txt
+20250425_140911--Layout S3 generado correctamente -- S320250425_141442.txt
+20250425_140911--Layout S3 generado correctamente -- S320250425_141442.txt
+20250425_150131--Se abre ventana para generar layout del IMSS
+20250425_150152--Se abre ventana para generar layout del IMSS
+20250425_150152--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_150152--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_15_38.xlsx
+20250425_150152 -- Carga archivo Trades Custodio correcta
+20250425_150152--Layout BBVA generado correctamente -- BBVA20250425_150203.txt
+20250425_150152--Layout S3 generado correctamente -- S320250425_150203.txt
+20250425_150152--Layout S3 generado correctamente -- S320250425_150203.txt
+20250425_150739--Se abre ventana para generar layout del IMSS
+20250425_150749--Se abre ventana para generar layout del IMSS
+20250425_150856--Se abre ventana para generar layout del IMSS
+20250425_150857--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_150857--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_40_08.xlsx
+20250425_150857 -- Carga archivo Trades Custodio correcta
+20250425_150857--Layout BBVA generado correctamente -- BBVA20250425_151059.txt
+20250425_150857--Layout S3 generado correctamente -- S320250425_151059.txt
+20250425_150857--Layout S3 generado correctamente -- S320250425_151059.txt
+20250425_151834--Se abre ventana para generar layout del IMSS
+20250425_151844--Se abre ventana para generar layout del IMSS
+20250425_151911--Se abre ventana para generar layout del IMSS
+20250425_151911--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_151911--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_40_08.xlsx
+20250425_151911 -- Carga archivo Trades Custodio correcta
+20250425_151911--Layout BBVA generado correctamente -- BBVA20250425_151921.txt
+20250425_151911--Layout S3 generado correctamente -- S320250425_151921.txt
+20250425_151911--Layout S3 generado correctamente -- S320250425_151921.txt
+20250425_153848--Se abre ventana para generar layout del IMSS
+20250425_153848--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_153848--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_15_38.xlsx
+20250425_153848 -- Carga archivo Trades Custodio correcta
+20250425_153848--Layout BBVA generado correctamente -- BBVA20250425_153858.txt
+20250425_153848--Layout S3 generado correctamente -- S320250425_153858.txt
+20250425_153848--Layout S3 generado correctamente -- S320250425_153858.txt
+20250425_153952--Se abre ventana para generar layout del IMSS
+20250425_153953--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_153953--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_15_38.xlsx
+20250425_153953 -- Carga archivo Trades Custodio correcta
+20250425_153953--Layout BBVA generado correctamente -- BBVA20250425_154047.txt
+20250425_153953--Layout S3 generado correctamente -- S320250425_154047.txt
+20250425_153953--Layout S3 generado correctamente -- S320250425_154047.txt
+20250425_154428--Se abre ventana para generar layout del IMSS
+20250425_154436--Se abre ventana para generar layout del IMSS
+20250425_154534--Se abre ventana para generar layout del IMSS
+20250425_154534--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_154534--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_15_38.xlsx
+20250425_154534 -- Carga archivo Trades Custodio correcta
+20250425_154534--Layout BBVA generado correctamente -- BBVA20250425_154535.txt
+20250425_154534--Layout S3 generado correctamente -- S320250425_154535.txt
+20250425_165434--Se abre ventana para generar layout del IMSS
+20250425_165441--Se abre ventana para generar layout del IMSS
+20250425_165536--Se abre ventana para generar layout del IMSS
+20250425_165550--Se abre ventana para generar layout del IMSS
+20250425_165550--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_165550--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_15_38.xlsx
+20250425_165550 -- Carga archivo Trades Custodio correcta
+20250425_165632--Se abre ventana para generar layout del IMSS
+20250425_165634--Se abre ventana para generar layout del IMSS
+20250425_165635--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_165700--Se abre ventana para generar layout del IMSS
+20250425_165700--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_165700--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_15_38.xlsx
+20250425_165700 -- Carga archivo Trades Custodio correcta
+20250425_172340--Se abre ventana para generar layout del IMSS
+20250425_172340--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_172340--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_40_08.xlsx
+20250425_172340 -- Carga archivo Trades Custodio correcta
+20250425_172714--Se abre ventana para generar layout del IMSS
+20250425_172714--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_172714--Inicia carga archivo Trades Custodio -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\trades-downloadReport2025_04_24 21_15_38.xlsx
+20250425_172714 -- Carga archivo Trades Custodio correcta
+20250425_174844--Se abre ventana para generar layout del IMSS
+20250425_174846--Se abre ventana para generar layout del IMSS
+20250425_175050--Se abre ventana para generar layout del IMSS
+20250425_175050--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_175050--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250425_175207--Se abre ventana para generar layout del IMSS
+20250425_175210--Se abre ventana para generar layout del IMSS
+20250425_175322--Se abre ventana para generar layout del IMSS
+20250425_175322--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_175322--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250425_175322--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250424MD.xls
+20250425_175322--Inicia carga archivo Position -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\positions-downloadReport2025_04_26 01_16_16.xlsx
+25/04/2025 05:54:40 p. m.--Carga archivo Position correcta -- Archivo Positions
+20250425_175322--Layout generado correctamente -- MSANT20250425layout.csv
+20250425_175322--Layout FV generado correctamente -- MSANT20250425_FV.csv
+20250425_175322--Layout posición valuada excel generado correctamente -- 20250425excel_SAM.xlsx
+20250425_180333--Se abre ventana para generar layout del IMSS
+20250425_180335--Se abre ventana para generar layout del IMSS
+20250425_194159--Se abre ventana para generar layout del IMSS
+20250425_194342--Se abre ventana para generar layout del IMSS
+20250425_194343--Se abre ventana para generar layout del IMSS
+20250425_194437--Se abre ventana para generar layout del IMSS
+20250425_194437--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_194437--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\vector_precios (56).csv
+20250425_194437--Inicia carga archivo Position -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\positions-downloadReport2025_04_26 01_16_16.xlsx
+25/04/2025 07:45:18 p. m.--Carga archivo Position correcta -- Archivo Positions
+20250425_194437--Layout generado correctamente -- MSANT20250425layout.csv
+20250425_194437--Layout FV generado correctamente -- MSANT20250425_FV.csv
+20250425_194437--Layout posición valuada excel generado correctamente -- 20250425excel_SAM.xlsx
+20250425_194836--Se abre ventana para generar layout del IMSS
+20250425_194840--Se abre ventana para generar layout del IMSS
+20250425_194922--Se abre ventana para generar layout del IMSS
+20250425_194922--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_194922--Layout BBVA generado correctamente -- BBVA20250425_194922.txt
+20250425_194922--Layout S3 generado correctamente -- S320250425_194922.txt
+20250425_194922--Layout S3 generado correctamente -- S320250425_194922.txt
+20250425_201017--Se abre ventana para generar layout del IMSS
+20250425_201017--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_201017--Layout BBVA generado correctamente -- BBVA20250425_201017.txt
+20250425_201017--Layout S3 generado correctamente -- S320250425_201017.txt
+20250425_201017--Layout S3 generado correctamente -- S320250425_201017.txt
+20250425_201905--Se abre ventana para generar layout del IMSS
+20250425_201923--Se abre ventana para generar layout del IMSS
+20250425_202017--Se abre ventana para generar layout del IMSS
+20250425_202017--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250425_202017--El vector de valmer se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnaliticoMD.xls
+20250425_202017--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250424MD.xls
+20250425_202017--Inicia carga archivo Position -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\positions-downloadReport2025_04_26 01_16_16.xlsx
+25/04/2025 08:21:01 p. m.--Carga archivo Position correcta -- Archivo Positions
+20250425_202017--Layout generado correctamente -- MSANT20250425layout.csv
+20250425_202017--Layout FV generado correctamente -- MSANT20250425_FV.csv
+20250425_202017--Layout posición valuada excel generado correctamente -- 20250425excel_SAM.xlsx

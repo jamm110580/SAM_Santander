@@ -1,0 +1,59 @@
+20250429_151319--Se abre ventana para generar layout del IMSS
+20250429_151347--Se abre ventana para generar layout del IMSS
+20250429_151347--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_152057--Se abre ventana para generar layout del IMSS
+20250429_152103--Se abre ventana para generar layout del IMSS
+20250429_152103--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_154338--Se abre ventana para generar layout del IMSS
+20250429_154343--Se abre ventana para generar layout del IMSS
+20250429_154343--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_160806--Se abre ventana para generar layout del IMSS
+20250429_160825--Se abre ventana para generar layout del IMSS
+20250429_160834--Se abre ventana para generar layout del IMSS
+20250429_160834--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_160834--Layout S3 generado correctamente -- S320250429_160834.txt
+20250429_162436--Se abre ventana para generar layout del IMSS
+20250429_162444--Se abre ventana para generar layout del IMSS
+20250429_162444--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_162444--Layout S3 generado correctamente -- S320250429_162444.txt
+20250429_162859--Se abre ventana para generar layout del IMSS
+20250429_162909--Se abre ventana para generar layout del IMSS
+20250429_162909--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_162909--Layout S3 generado correctamente -- S320250429_162909.txt
+20250429_163110--Se abre ventana para generar layout del IMSS
+20250429_163116--Se abre ventana para generar layout del IMSS
+20250429_163116--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_163116--Layout S3 generado correctamente -- S320250429_163116.txt
+20250429_163256--Se abre ventana para generar layout del IMSS
+20250429_163301--Se abre ventana para generar layout del IMSS
+20250429_163301--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_163301--Layout S3 generado correctamente -- S320250429_163301.txt
+20250429_164449--Se abre ventana para generar layout del IMSS
+20250429_164456--Se abre ventana para generar layout del IMSS
+20250429_164456--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_164456--Layout S3 generado correctamente -- S320250429_164456.txt
+20250429_172803--Se abre ventana para generar layout del IMSS
+20250429_172818--Se abre ventana para generar layout del IMSS
+20250429_172820--Se abre ventana para generar layout del IMSS
+20250429_172820--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_172820--Layout generado correctamente -- MSANT20250429layout.csv
+20250429_172844--Se abre ventana para generar layout del IMSS
+20250429_172844--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_172844--Layout posición valuada excel generado correctamente -- 20250429excel_SAM.xlsx
+20250429_180724--Se abre ventana para generar layout del IMSS
+20250429_180743--Se abre ventana para generar layout del IMSS
+20250429_180748--Se abre ventana para generar layout del IMSS
+20250429_180748--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_180748--Layout posición valuada excel generado correctamente -- 20250429excel_SAM.xlsx
+20250429_180935--Se abre ventana para generar layout del IMSS
+20250429_180937--Se abre ventana para generar layout del IMSS
+20250429_180939--Se abre ventana para generar layout del IMSS
+20250429_180939--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_180939--Layout posición valuada excel generado correctamente -- 20250429excel_SAM.xlsx
+20250429_181029--Se abre ventana para generar layout del IMSS
+20250429_181047--Se abre ventana para generar layout del IMSS
+20250429_181047--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250429_181047--Layout generado correctamente -- MSANT20250429layout.csv
+20250429_181047--Layout FV generado correctamente -- MSANT20250429_FV.csv
+20250429_181047--Layout posición valuada excel generado correctamente -- 20250429excel_SAM.xlsx
+20250429_181047--Layout BBVA generado correctamente -- BBVA20250429_181047.txt

@@ -1,0 +1,60 @@
+20250508_001056--Se abre ventana para generar layout del IMSS
+20250508_001101--Se abre ventana para generar layout del IMSS
+20250508_001123--Se abre ventana para generar layout del IMSS
+20250508_001123--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_001123--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD.xls
+20250508_001340--Se abre ventana para generar layout del IMSS
+20250508_001347--Se abre ventana para generar layout del IMSS
+20250508_001358--Se abre ventana para generar layout del IMSS
+20250508_001358--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_001358--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD.xls
+20250508_002241--Se abre ventana para generar layout del IMSS
+20250508_002246--Se abre ventana para generar layout del IMSS
+20250508_002259--Se abre ventana para generar layout del IMSS
+20250508_002259--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_002259--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD.xls
+20250508_130627--Se abre ventana para generar layout del IMSS
+20250508_130635--Se abre ventana para generar layout del IMSS
+20250508_130635--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_130635--Layout S3 generado correctamente -- S320250508_130635.txt
+20250508_130635--Layout S3 generado correctamente -- S320250508_130635.txt
+20250508_132025--Se abre ventana para generar layout del IMSS
+20250508_132025--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_132025--Layout S3 generado correctamente -- S320250508_132025.txt
+20250508_133021--Se abre ventana para generar layout del IMSS
+20250508_133029--Se abre ventana para generar layout del IMSS
+20250508_133029--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_133029--Layout S3 generado correctamente -- S320250508_133029.txt
+20250508_133152--Se abre ventana para generar layout del IMSS
+20250508_133152--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_134500--Se abre ventana para generar layout del IMSS
+20250508_134506--Se abre ventana para generar layout del IMSS
+20250508_134506--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_134506--Layout S3 generado correctamente -- S320250508_134506.txt
+20250508_134651--Se abre ventana para generar layout del IMSS
+20250508_134659--Se abre ventana para generar layout del IMSS
+20250508_134659--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_134659--Layout S3 generado correctamente -- S320250508_134659.txt
+20250508_135118--Se abre ventana para generar layout del IMSS
+20250508_135124--Se abre ventana para generar layout del IMSS
+20250508_135124--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_135124--Layout S3 generado correctamente -- S320250508_135124.txt
+20250508_135300--Se abre ventana para generar layout del IMSS
+20250508_135300--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_140313--Se abre ventana para generar layout del IMSS
+20250508_140323--Se abre ventana para generar layout del IMSS
+20250508_140323--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_140514--Se abre ventana para generar layout del IMSS
+20250508_140521--Se abre ventana para generar layout del IMSS
+20250508_140521--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_140521--Layout S3 generado correctamente -- S320250508_140521.txt
+20250508_141114--Se abre ventana para generar layout del IMSS
+20250508_141120--Se abre ventana para generar layout del IMSS
+20250508_141120--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_141120--Layout S3 generado correctamente -- S320250508_141120.txt
+20250508_141140--Se abre ventana para generar layout del IMSS
+20250508_141140--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_141310--Se abre ventana para generar layout del IMSS
+20250508_141318--Se abre ventana para generar layout del IMSS
+20250508_141318--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250508_141318--Layout S3 generado correctamente -- S320250508_141318.txt

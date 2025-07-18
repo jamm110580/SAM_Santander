@@ -1,0 +1,5 @@
+20250505_104000--Se abre ventana para generar layout del IMSS
+20250505_222512--Se abre ventana para generar layout del IMSS
+20250505_223254--Se abre ventana para generar layout del IMSS
+20250505_223320--Se abre ventana para generar layout del IMSS
+20250505_223320--Inicia proceso para cargar layouts y generar archivos del IMSS

@@ -1,0 +1,83 @@
+20250507_001737--Se abre ventana para generar layout del IMSS
+20250507_001742--Se abre ventana para generar layout del IMSS
+20250507_001803--Se abre ventana para generar layout del IMSS
+20250507_001803--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_195944--Se abre ventana para generar layout del IMSS
+20250507_200013--Se abre ventana para generar layout del IMSS
+20250507_200013--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_200013--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD V2.xls
+20250507_200527--Se abre ventana para generar layout del IMSS
+20250507_200527--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_202238--Se abre ventana para generar layout del IMSS
+20250507_202242--Se abre ventana para generar layout del IMSS
+20250507_202252--Se abre ventana para generar layout del IMSS
+20250507_202252--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_202403--Se abre ventana para generar layout del IMSS
+20250507_202403--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_202720--Se abre ventana para generar layout del IMSS
+20250507_202728--Se abre ventana para generar layout del IMSS
+20250507_202738--Se abre ventana para generar layout del IMSS
+20250507_202738--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_203828--Se abre ventana para generar layout del IMSS
+20250507_204250--Se abre ventana para generar layout del IMSS
+20250507_204254--Se abre ventana para generar layout del IMSS
+20250507_204314--Se abre ventana para generar layout del IMSS
+20250507_204314--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_204314--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD V2.xls
+20250507_205346--Se abre ventana para generar layout del IMSS
+20250507_205402--Se abre ventana para generar layout del IMSS
+20250507_205414--Se abre ventana para generar layout del IMSS
+20250507_205414--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_205414--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD V2.xls
+20250507_210034--Se abre ventana para generar layout del IMSS
+20250507_210034--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_210352--Se abre ventana para generar layout del IMSS
+20250507_210356--Se abre ventana para generar layout del IMSS
+20250507_210406--Se abre ventana para generar layout del IMSS
+20250507_210406--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_210406--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD V2.xls
+20250507_213101--Se abre ventana para generar layout del IMSS
+20250507_213101--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_214149--Se abre ventana para generar layout del IMSS
+20250507_214153--Se abre ventana para generar layout del IMSS
+20250507_214206--Se abre ventana para generar layout del IMSS
+20250507_214206--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_215110--Se abre ventana para generar layout del IMSS
+20250507_215115--Se abre ventana para generar layout del IMSS
+20250507_215126--Se abre ventana para generar layout del IMSS
+20250507_215126--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_220037--Se abre ventana para generar layout del IMSS
+20250507_220043--Se abre ventana para generar layout del IMSS
+20250507_220053--Se abre ventana para generar layout del IMSS
+20250507_220053--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_220719--Se abre ventana para generar layout del IMSS
+20250507_220726--Se abre ventana para generar layout del IMSS
+20250507_220735--Se abre ventana para generar layout del IMSS
+20250507_220735--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_221157--Se abre ventana para generar layout del IMSS
+20250507_221200--Se abre ventana para generar layout del IMSS
+20250507_221210--Se abre ventana para generar layout del IMSS
+20250507_221210--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_221210--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD V2.xls
+20250507_221606--Se abre ventana para generar layout del IMSS
+20250507_221611--Se abre ventana para generar layout del IMSS
+20250507_221618--Se abre ventana para generar layout del IMSS
+20250507_221700--Se abre ventana para generar layout del IMSS
+20250507_221703--Se abre ventana para generar layout del IMSS
+20250507_221713--Se abre ventana para generar layout del IMSS
+20250507_221713--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_221713--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD V2.xls
+20250507_222040--Se abre ventana para generar layout del IMSS
+20250507_222044--Se abre ventana para generar layout del IMSS
+20250507_222059--Se abre ventana para generar layout del IMSS
+20250507_222059--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_222059--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250506MD.xls
+20250507_223102--Se abre ventana para generar layout del IMSS
+20250507_223918--Se abre ventana para generar layout del IMSS
+20250507_223923--Se abre ventana para generar layout del IMSS
+20250507_223928--Se abre ventana para generar layout del IMSS
+20250507_223933--Se abre ventana para generar layout del IMSS
+20250507_223933--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250507_223933--Layout generado correctamente -- MSANT20250507layout.csv
+20250507_223933--Layout FV generado correctamente -- MSANT20250507_FV.csv
+20250507_223933--Layout posición valuada excel generado correctamente -- 20250507excel_SAM.xlsx

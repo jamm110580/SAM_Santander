@@ -1,0 +1,13 @@
+20250506_102935--Se abre ventana para generar layout del IMSS
+20250506_102940--Se abre ventana para generar layout del IMSS
+20250506_102950--Se abre ventana para generar layout del IMSS
+20250506_102950--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250506_102950--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250502MD.xls
+20250506_103113--Se abre ventana para generar layout del IMSS
+20250506_103113--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250506_103113--El vector de PIP se cargo de manera correcta -- C:\Users\N854611\source\repos\IMSS_SAM_Web\IMSS_SAM_Web\App_Data\FileTemp\VectorAnalitico20250502MD.xls
+20250506_103353--Se abre ventana para generar layout del IMSS
+20250506_103353--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250506_103927--Se abre ventana para generar layout del IMSS
+20250506_103958--Se abre ventana para generar layout del IMSS
+20250506_103958--Inicia proceso para cargar layouts y generar archivos del IMSS

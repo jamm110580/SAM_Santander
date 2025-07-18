@@ -1,0 +1,5 @@
+20250513_133248--Se abre ventana para generar layout del IMSS
+20250513_133315--Se abre ventana para generar layout del IMSS
+20250513_133321--Se abre ventana para generar layout del IMSS
+20250513_133321--Inicia proceso para cargar layouts y generar archivos del IMSS
+20250513_133321--Layout S3 generado correctamente -- S320250513_133321.txt
