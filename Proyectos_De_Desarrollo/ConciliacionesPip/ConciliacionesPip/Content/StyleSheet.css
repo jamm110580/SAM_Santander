@@ -1,0 +1,55 @@
+﻿body {
+}
+
+.custom-height {
+    height: 260px; /* Ajusta la altura como necesites */
+    object-fit: cover; /* Esto asegura que la imagen se recorte adecuadamente */
+}
+
+.button-group {
+    background-color: #f8f9fa; /* Color de fondo */
+    border: 1px solid #dee2e6; /* Borde */
+    border-radius: 5px; /* Esquinas redondeadas */
+    padding: 20px; /* Espaciado interno */
+    margin-bottom: 30px; /* Espaciado entre grupos */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+    .button-group h2 {
+        margin-bottom: 20px; /* Espacio entre el título y los botones */
+        color: #ffffff; /* Color del texto */
+        background-color: #343a40; /* Gris oscuro */
+        padding: 10px; /* Espaciado interno */
+        border-radius: 5px; /* Esquinas redondeadas */
+        text-transform: uppercase; /* Texto en mayúsculas */
+        font-weight: bold; /* Negrita */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra del encabezado */
+    }
+
+.btn-block {
+    width: 100%; /* Botones ocupando todo el ancho */
+}
+
+.modal-header {
+    background-color: #007bff; /* Color de fondo del encabezado */
+    border-bottom: 1px solid #0056b3; /* Borde inferior */
+}
+
+.modal-title {
+    font-size: 1.5rem; /* Tamaño de fuente */
+}
+
+.modal-body {
+    font-size: 1.1rem; /* Tamaño de fuente del cuerpo */
+    color: #333; /* Color del texto */
+}
+
+
+footer {
+    width: 100%;
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative; /* Así se queda al final natural del contenido */
+}
