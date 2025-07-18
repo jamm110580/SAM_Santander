@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2651CF8-C7C3-44D7-981D-E7C881DD8CD1}|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip|c:\\users\\sammx\\source\\repos\\conciliacionespip\\conciliacionespip\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2651CF8-C7C3-44D7-981D-E7C881DD8CD1}|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip|solutionrelative:conciliacionespip\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2651CF8-C7C3-44D7-981D-E7C881DD8CD1}|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\conciliacionespip\\app_code\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2651CF8-C7C3-44D7-981D-E7C881DD8CD1}|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip|solutionrelative:conciliacionespip\\app_code\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2651CF8-C7C3-44D7-981D-E7C881DD8CD1}|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\conciliacionespip\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2651CF8-C7C3-44D7-981D-E7C881DD8CD1}|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip|solutionrelative:conciliacionespip\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2651CF8-C7C3-44D7-981D-E7C881DD8CD1}|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip|c:\\users\\sammx\\source\\repos\\conciliacionespip\\conciliacionespip\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2651CF8-C7C3-44D7-981D-E7C881DD8CD1}|C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip|solutionrelative:conciliacionespip\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ConciliacionesPip\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip\\Default.aspx.cs",
+              "RelativeToolTip": "ConciliacionesPip\\Default.aspx.cs",
+              "ViewState": "AgIAAKYCAAAAAAAAAAAvwLwCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:55:58.196Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip\\Default.aspx",
+              "RelativeDocumentMoniker": "ConciliacionesPip\\Default.aspx",
+              "ToolTip": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip\\Default.aspx",
+              "RelativeToolTip": "ConciliacionesPip\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-09T15:55:57.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Excel.cs",
+              "DocumentMoniker": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip\\App_Code\\Excel.cs",
+              "RelativeDocumentMoniker": "ConciliacionesPip\\App_Code\\Excel.cs",
+              "ToolTip": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip\\App_Code\\Excel.cs",
+              "RelativeToolTip": "ConciliacionesPip\\App_Code\\Excel.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAvwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:59:07.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip\\Web.config",
+              "RelativeDocumentMoniker": "ConciliacionesPip\\Web.config",
+              "ToolTip": "C:\\Users\\SAMMX\\source\\repos\\ConciliacionesPip\\ConciliacionesPip\\Web.config",
+              "RelativeToolTip": "ConciliacionesPip\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-09T17:35:39.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
